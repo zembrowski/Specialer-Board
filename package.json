@@ -1,7 +1,7 @@
 {
   "name": "specialer-board",
   "theme": "syntax",
-  "version": "0.0.1",
+  "version": "0.8.0",
   "private": false,
   "description": "This is a dark theme based on the Coda 2 theme, 'Specials Board'. Based on theme of mikelentini. Fixed for v1.13.",
   "repository": "https://github.com/zembrowski/Specialer-Board",
