@@ -1,3 +1,4 @@
+Copyright (c) 2017 Krzysztof Tomasz Zembrowski
 Copyright (c) 2014 Mike Lentini
 
 Permission is hereby granted, free of charge, to any person obtaining
